@@ -3,7 +3,7 @@
 ## Learn to create animation effects with Javascript for your website or application.
 ### Files:
 - Effect one:
-  Floating appearing back to front in carrossel.
+  Floating backwards.
   
 - Effect two:
-  Pixeling image out-in and in-out.
+  Fragment entry and exit composition effect.
